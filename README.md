@@ -8,6 +8,7 @@ NHÓM 3 :
 
 3.NGUUYỄN LƯƠNG DUY-20204960-VN02(đóng góp và sửa chữa bài 1,2)
 
+BÀI TẬP CÁC WEEK HẢI, TÙNG.
 Bài 1 
 TOHOP.INP | TOHOP.OUT
 9 5       | 126
